@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # Custom
+.DS_Store
 dataset/
 logs/
 models/
