@@ -10,4 +10,4 @@ pip install tqdm
 pip install nibabel
 ```
 
-Follow `notebooks` for training, testing and analysis.
+Follow `notebooks` for training, testing and analysis. This work is based on https://github.com/hasibzunair/adversarial-lesions.
